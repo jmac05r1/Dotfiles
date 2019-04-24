@@ -195,4 +195,3 @@ bindsym --release XF86AudioNext exec xdotool key 57
 bindsym --release XF86AudioPrev exec xdotool key 33
 bindsym --release XF86AudioPlay exec xdotool key 65
 
-test
