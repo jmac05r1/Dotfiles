@@ -4,5 +4,5 @@ i3 customized after ######CUSTOM####
 -xdotool
 Tools used
 
-tizonia 
+tizonia = spotify command line musc player
 -user/pw created with python-key-ring
