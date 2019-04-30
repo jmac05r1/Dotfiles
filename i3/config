@@ -195,3 +195,5 @@ bindsym --release XF86AudioNext exec xdotool key 57
 bindsym --release XF86AudioPrev exec xdotool key 33
 bindsym --release XF86AudioPlay exec xdotool key 65
 
+#screenshot_printscreen"must disable print in keybindings fist"
+bindcode 107 exec gnome-screenshot -i
