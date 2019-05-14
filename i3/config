@@ -197,3 +197,11 @@ bindsym --release XF86AudioPlay exec xdotool key 65
 
 #screenshot_printscreen"must disable print in keybindings fist"
 bindcode 107 exec gnome-screenshot -i
+
+# Make the currently focused window a scratchpad
+bindsym $mod+Shift+minus move scratchpad
+
+# Show the first scratchpad window
+#remove floating $mod+shift+space
+bindsym $mod+minus scratchpad show 
+
